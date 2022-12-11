@@ -3,3 +3,5 @@ the story is too long
 test
 
 practice
+
+added some information on github
